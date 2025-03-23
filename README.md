@@ -1,6 +1,11 @@
 <h1>Projeto React utilizando Yarn</h1>
 <p>Iniciando o Projeto com o comando 'YARN CREATE VITE', apois este comando, dar nome ao projeto e dizer quais tecnologias sera utilizadas, 'React e JavScript', 
-abrir o projeto no 'VScode', fazer sua estrutura de pastas e arquivos.</p>
+abrir o projeto no 'VScode', fazer sua estrutura de pastas e arquivos.
+</p>
+<p>
+    Dando continuidade, renomiei 'eslintrc.json', e criação do arquivo 'Prettierrc.json'.
+</p>
+
 
 # React + Vite
 
