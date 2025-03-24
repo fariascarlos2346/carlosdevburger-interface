@@ -6,6 +6,7 @@ abrir o projeto no 'VScode', fazer sua estrutura de pastas e arquivos.
     Dando continuidade, renomiei 'eslintrc.json', e criação do arquivo 'Prettierrc.json'.
 </p>
 Inicializando a tela de Login,  criando no react e importando no styles.components.
+Terminando a estilização e Componetizando o Button.
 
 
 # React + Vite
