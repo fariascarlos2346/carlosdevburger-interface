@@ -9,6 +9,8 @@ Inicializando a tela de Login,  criando no react e importando no styles.componen
 Terminando a estilização e Componetizando o Button.
 <br>
 Baixei PropType para dizer qual seu tipo "STRING", Botão de forma Global.
+<br>
+# Estalando mais Bibliotecas para facilitar nossa captura dos dados do formulario e as Validações: React-hoot-form e mais duas @hookform/resolvers yup
 
 
 # React + Vite
