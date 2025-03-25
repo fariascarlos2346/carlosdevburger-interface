@@ -7,6 +7,8 @@ abrir o projeto no 'VScode', fazer sua estrutura de pastas e arquivos.
 </p>
 Inicializando a tela de Login,  criando no react e importando no styles.components.
 Terminando a estilização e Componetizando o Button.
+<br>
+Baixei PropType para dizer qual seu tipo "STRING", Botão de forma Global.
 
 
 # React + Vite
